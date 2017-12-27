@@ -38,7 +38,7 @@ npm run dev-web
 │  ├─util------------# 工具方法文件
 │  ├─index.js--------# Webpack 预编译入口
 │ index.html---------# 项目入口文件
-│ package.json-------# 配置文件
+│ package.json-------# npm说明文件
 │ webpack.config.js--# webpack配置文件
 ```
 
